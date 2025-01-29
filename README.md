@@ -1,4 +1,6 @@
-This Python script is designed to identify and flag FedNow and Real-Time Payment (RTP) customers within the Federal ACH Directory. Additionally, it exports any unidentified routing numbers to separate CSV files. The long-term goal of this project was to visualize all FedNow and RTP customers on an interactive map, highlighting potential customers whose competitors are already using instant payment services. If you have any questions or comments about this repository, or would like to contact me about possible opportunities, please email kayleigh.soukup@gmail.com.
+This Python script is designed to identify and flag FedNow and Real-Time Payment (RTP) customers within the Federal ACH Directory. Additionally, it exports any unidentified routing numbers to separate CSV files. The long-term goal of this project was to visualize all FedNow and RTP customers on an interactive map, highlighting potential customers whose competitors are already using instant payment services. 
+
+If you have any questions or comments about this repository, or would like to contact me about possible opportunities, please email kayleigh.soukup@gmail.com.
 
 Process Steps:
 
